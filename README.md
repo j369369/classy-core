@@ -1,6 +1,6 @@
 # Classy Swap Core Contracts
 
-DXswap core is a fork of the [Uniswapv2 core smart contracts v1.0.0](https://github.com/Uniswap/uniswap-v2-core/releases/tag/v1.0.0).
+Classy Swap core is a fork of the [Uniswapv2 core smart contracts v1.0.0](https://github.com/Uniswap/uniswap-v2-core/releases/tag/v1.0.0).
 
 ## Local Development
 
